@@ -1,0 +1,14 @@
+li{
+    display: inline;
+    font-size: 22px;
+    font-family: 'roboto';
+}
+a{
+    color: bisque;
+}
+body{
+    background-color: blueviolet;
+}
+.p{
+   font-size: medium;
+}
